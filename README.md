@@ -60,6 +60,9 @@ Reflection: STAR technique
 
 # Interview Skills
 
+![teams](images/Interview-skills.png)
+
+
 The primary evidence for my Interview Skills is the successful completion of the required formative assessments on the learning management system. I achieved a perfect score on both required tasks:
 
  - Interview Skills Assessment: 100/100
@@ -67,22 +70,33 @@ The primary evidence for my Interview Skills is the successful completion of the
  - 1 Interview Skills - Interview Skills Assessment: 100/100
 
 These scores validate my knowledge of effective interview preparation, response strategies, and professional conduct during the interview process, demonstrating I've mastered the theoretical skills covered in the work readiness training.
+ 
+
+Reflection: STAR technique
+
+- Situation - During the Work Readiness Training, I completed the unit focused on effective Interview Skills, which required me to understand and apply best practices for job interviews.
+  
+- Task - My task was to successfully master the material, including preparing answers, understanding interviewer expectations, and learning how to professionally close an interview.
+
+- Action - I thoroughly studied the course content and applied that knowledge while attempting the two required assessments. I focused on correctly identifying key strategies for behavioral questions and professional follow-up.
+
+- Result - I achieved a score of 100/100 on both assessments (artefact). This result proves I have a strong theoretical foundation in Interview Skills, which is essential for successfully securing opportunities in the ICT industry.
+
+# Mock Inteview
+
+![Mockup-video](images/Mockup_video.png)
+
 
 
 Reflection: STAR technique
 
-- Situation
-- Task
-- Action
-- Result
+- Situation - As part of the Work Readiness training, I was required to participate in a simulated job interview (Mock Interview) to practice my communication and behavioral skills under pressure.
 
+- Task - My task was to successfully apply all the theoretical Interview Skills I had learned, specifically focusing on clearly answering behavioral questions using a structured technique like STAR, and maintaining professional conduct.
 
-Reflection: STAR technique
+- Action - I prepared for the mock interview by researching common industry questions and structuring my answers. During the recorded interview (artefact), I focused on articulating my skills and experience clearly, maintaining strong eye contact, and presenting a professional demeanor throughout the session.
 
-- Situation
-- Task
-- Action
-- Result
+- Result - The mock interview allowed me to identify areas where I was strong (e.g., confidence, knowledge) and areas for improvement (e.g., the clarity of specific examples). This experience provided crucial practical exposure, greatly increasing my confidence and preparedness for real-world job interviews.
 
 
 Reflection: STAR technique
