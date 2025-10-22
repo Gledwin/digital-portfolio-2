@@ -28,7 +28,7 @@ The evidence demostrates my participation in the communication and documentation
 
 ![outlook](images/outlook.png)
 
-![my work](images/mywork.png) 
+![my work](images/work.png) 
 
 
 ## For the Business Communication
@@ -60,7 +60,7 @@ Reflection: STAR technique
 
 # 2. Interview Skills
 
-![teams](images/Interview-skills.png)
+![teams](images/Interview.png)
 
 
 The primary evidence for my Interview Skills is the successful completion of the required formative assessments on the learning management system. I achieved a perfect score on both required tasks:
@@ -84,7 +84,7 @@ Reflection: STAR technique
 
 # 3. Mock Inteview
 
-![Mockup-video](images/LinkedIn.png)
+![Mockup-video](images/Linkedin.png)
 
 
 
