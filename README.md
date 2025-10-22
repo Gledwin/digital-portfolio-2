@@ -20,7 +20,7 @@ The portfolio is organized into the following key sections:
 - **Professional Networking**
 - **Workplace Etiquette**
 
-# Business Communication and Workplace Etiquette
+# 1. Business Communication and Workplace Etiquette
 
 The evidence demostrates my participation in the communication and documentation aspects of the WIL project, which align with the Business Communication and Workplace Etiquette criteria for the digital portfolio.
 
@@ -58,7 +58,7 @@ Reflection: STAR technique
 - Action - I ensured I was always on time for the mandatory Daily Stand-up and any scheduled check-ins. I exclusively used official platforms like Teams and CPUT email for all communication. Furthermore, I maintained an organized file system with clear names for all my documents (artefact), showing respect for the administrator's review time.
 - Result - My consistent punctuality and adherence to official channels ensured I did not disrupt the project flow for others. My professional conduct showed I am ready to operate reliably and independently in a supervised, professional environment.
 
-# Interview Skills
+# 2. Interview Skills
 
 ![teams](images/Interview-skills.png)
 
@@ -82,9 +82,9 @@ Reflection: STAR technique
 
 - Result - I achieved a score of 100/100 on both assessments (artefact). This result proves I have a strong theoretical foundation in Interview Skills, which is essential for successfully securing opportunities in the ICT industry.
 
-# Mock Inteview
+# 3. Mock Inteview
 
-![Mockup-video](images/Mockup_video.png)
+![Mockup-video](images/LinkedIn.png)
 
 
 
@@ -98,19 +98,20 @@ Reflection: STAR technique
 
 - Result - The mock interview allowed me to identify areas where I was strong (e.g., confidence, knowledge) and areas for improvement (e.g., the clarity of specific examples). This experience provided crucial practical exposure, greatly increasing my confidence and preparedness for real-world job interviews.
 
+# 4. Prefessional Networking
+
+The key evidence for my professional networking is my active and established presence on LinkedIn, the leading platform for career development. The screenshot of my profile (artefact) shows I have established a professional online presence, listing my current status as an ICT student at Cape Peninsula University of Technology. It also shows I have 17 connections, which demonstrates the start of my professional network building.
 
 Reflection: STAR technique
 
-- Situation
-- Task
-- Action
-- Result
+- Situation - The Work Readiness training emphasized the critical need for ICT professionals to build and maintain a strong professional network for career growth and job opportunities.
+
+- Task - My task was to establish a formal, professional online presence and begin actively networking with peers, mentors, and industry professionals.
+
+- Action - I created and optimized my LinkedIn profile (artefact), ensuring all details about my education and skills were accurate. I then proactively started connecting with classmates, lecturers, and individuals in the ICT industry, resulting in 17 connections (artefact) as a foundation for my network.
+
+- Result - I successfully established the required professional network foundation. This resource now serves as my primary tool for industry research, job searching, and connecting with future employers, ensuring I am well-positioned to leverage opportunities in the job market.
 
 
-Reflection: STAR technique
 
-- Situation
-- Task
-- Action
-- Result
 
