@@ -28,7 +28,6 @@ The evidence demostrates my participation in the communication and documentation
 
 ![outlook](images/outlook.png)
 
-![my work](images/work.png) 
 
 
 ## For the Business Communication
@@ -45,6 +44,9 @@ Reflection: STAR technique
 - Action - I created formal, detailed documents, such as the Business Profile and Brand Strategy, which clearly communicated my core strategy in writing. I used the Daily Stand-up to provide concise, professional updates on my individual progress and any personal blockers.
   
 - Result - The clear, documented strategy ensured that all supervisors were aligned with my project goals. My effective communication during stand-ups allowed me to manage expectations and quickly get feedback, helping me efficiently build my tech solution.
+
+
+![my work](images/work.png) 
 
 
 ## For Workplace Etiquestte 
@@ -84,7 +86,6 @@ Reflection: STAR technique
 
 # 3. Mock Inteview
 
-![Mockup-video](images/Linkedin.png)
 
 
 
@@ -99,6 +100,9 @@ Reflection: STAR technique
 - Result - The mock interview allowed me to identify areas where I was strong (e.g., confidence, knowledge) and areas for improvement (e.g., the clarity of specific examples). This experience provided crucial practical exposure, greatly increasing my confidence and preparedness for real-world job interviews.
 
 # 4. Prefessional Networking
+
+![Mockup-video](images/Linkedin.png)
+
 
 The key evidence for my professional networking is my active and established presence on LinkedIn, the leading platform for career development. The screenshot of my profile (artefact) shows I have established a professional online presence, listing my current status as an ICT student at Cape Peninsula University of Technology. It also shows I have 17 connections, which demonstrates the start of my professional network building.
 
